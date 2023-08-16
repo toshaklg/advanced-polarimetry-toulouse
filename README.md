@@ -12,6 +12,6 @@ For each of the days there are numbered theoretical materials and, if available,
 
 
 ### Resources
-[Official course website](https://polarimetrycourse2023.esa.int/)
-[Official course materials](https://eo4society.esa.int/resources/7th-advanced-training-course-radar-polarimetry/)
-[Official recordings of lectures](https://www.youtube.com/playlist?list=PLvT7fd9OiI9U2P1sZTfz2Hhc_H6qIVrXm)
+[Official course website](https://polarimetrycourse2023.esa.int/)<br>
+[Official course materials](https://eo4society.esa.int/resources/7th-advanced-training-course-radar-polarimetry/)<br>
+[Official recordings of lectures](https://www.youtube.com/playlist?list=PLvT7fd9OiI9U2P1sZTfz2Hhc_H6qIVrXm)<br>
