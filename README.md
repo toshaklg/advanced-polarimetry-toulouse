@@ -1,4 +1,4 @@
-# ![logo](misc/footer.png)
+![logo](misc/footer.png)
 ## Advanced practical sessions on Radar Polarimetry
 
 This repository contains practical sessions offered at the ESA’s 7th Advanced Training Course on Radar Polarimetry which took place in Toulouse, France, June 12-16, 2023.
