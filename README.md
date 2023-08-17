@@ -6,9 +6,15 @@ This repository contains practical sessions offered at the ESA’s 7th Advanced 
 Since original data provided has outdated environemnt and a lot of unecessary and missing modules, the code here was cleaned and updated with a compact conda environment.
 
 ### Usage
-For each of the days there are numbered theoretical materials and, if available, solutions to practical tasks in html format. 
+For each of the days there are numbered theoretical materials and, if available, solutions to practical tasks in html format.
 
-*Environment file to the code will be added later.*
+To create conda environemnt run:
+
+    conda env create -f requirements.txt -n advanced-sar
+
+To get the data run:
+
+    wget https://eo4society.esa.int/training_uploads/RadarPolarimetry2023/Polarimetry-training-2023-Resources.zip
 
 
 ### Resources
